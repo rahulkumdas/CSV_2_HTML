@@ -1,19 +1,23 @@
-salve1,CPU Count,2
+salve1,CPU Cores,2
 salve1,CPU Usage,99
 salve2,CPU Usage,3
 salve1,Memory Percent,47
 salve1,Disk Usage,/dev/sda2,5
 salve1,Disk Usage,/dev/sda5,6
-salve1,Disk name,/dev/sda1,6
-salve1,Traffic in,0
-salve1,Traffic out,0
-salve1,NIC,virbr0
-salve1,MAC,
-salve1,IPv4 Address,192.168.122.1
-salve1,IPv4 Subnet,255.255.255.0
-salve1,IPv6 Address,
-salve1,OS,Linux
-salve1,Version,3.10.0-1062.el7.x86_64
-salve1,System Uptime,16739
-salve1,System UUID,8796752708986
-salve1,Top 5 process,gnome-shell,gnome-software,pulseaudio,evolution-source-registry,evolution-addressbook-factory-subprocess
+salve1,Disk Usage,/dev/sda1,6
+salve1,Networkdata,Traffic in,0
+salve1,Networkdata,Traffic out,0
+salve1,Networkdata,NIC,virbr0
+salve1,Networkdata,MAC,
+salve1,Networkdata,IPv4 Address,192.168.122.1
+salve1,Networkdata,IPv4 Subnet,255.255.255.0
+salve1,Networkdata,IPv6 Address,
+salve1,Infradata,OS,Linux
+salve1,Infradata,Version,3.10.0-1062.el7.x86_64
+salve1,Infradata,System Uptime,16739
+salve1,Infradata,System UUID,8796752708986
+salve1,Top 5 process,gnome-shell
+salve1,Top 5 process,gnome-software
+salve1,Top 5 process,pulseaudio
+salve1,Top 5 process,evolution-source-registry
+salve1,Top 5 process,evolution-addressbook-factory-subprocess
