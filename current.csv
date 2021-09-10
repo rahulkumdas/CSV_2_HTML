@@ -1,23 +1,23 @@
-salve1,CPU Cores,2
-salve1,CPU Usage,99
-salve2,CPU Usage,3
-salve1,Memory Percent,47
-salve1,Disk Usage,/dev/sda2,5
-salve1,Disk Usage,/dev/sda5,6
-salve1,Disk Usage,/dev/sda1,6
-salve1,Networkdata,Traffic in,0
-salve1,Networkdata,Traffic out,0
-salve1,Networkdata,NIC,virbr0
-salve1,Networkdata,MAC,
-salve1,Networkdata,IPv4 Address,192.168.122.1
-salve1,Networkdata,IPv4 Subnet,255.255.255.0
-salve1,Networkdata,IPv6 Address,
-salve1,Infradata,OS,Linux
-salve1,Infradata,Version,3.10.0-1062.el7.x86_64
-salve1,Infradata,System Uptime,16739
-salve1,Infradata,System UUID,8796752708986
-salve1,Top 5 process,gnome-shell
-salve1,Top 5 process,gnome-software
-salve1,Top 5 process,pulseaudio
-salve1,Top 5 process,evolution-source-registry
-salve1,Top 5 process,evolution-addressbook-factory-subprocess
+ansibletarget1,infradata,CPU_count,2
+ansibletarget1,cpuusage,0.5
+ansibletarget1,memorypercent,48.5
+ansibletarget1,swapmemorypercent,0.0
+ansibletarget1,diskusage,/dev/sda2,99
+ansibletarget1,diskusage,/dev/sda5,0.0
+ansibletarget1,diskusage,/dev/sda1,82
+ansibletarget1,networkdata,traffic_in,0.000103
+ansibletarget1,networkdata,traffic_out,0.0
+ansibletarget1,networkdata,NIC,virbr0
+ansibletarget1,networkdata,MAC,
+ansibletarget1,networkdata,IPv4_Address,192.168.122.1
+ansibletarget1,networkdata,IPv4_Subnet,255.255.255.0
+ansibletarget1,networkdata,IPv6_Address,
+ansibletarget1,infradata,OS,Linux
+ansibletarget1,infradata,Version,3.10.0-1062.el7.x86_64
+ansibletarget1,infradata,System_Uptime,9075
+ansibletarget1,infradata,System_UUID,8796758935113
+ansibletarget1,top5processes,gnome-shell
+ansibletarget1,top5processes,gnome-software
+ansibletarget1,top5processes,evolution-source-registry
+ansibletarget1,top5processes,pulseaudio
+ansibletarget1,top5processes,evolution-calendar-factory-subprocess

@@ -1,7 +1,3 @@
-CPU Usage,80,90
-CPU Count,80,90
-Memory Percent,80,90
-Disk Usage,80,90
-Disk name,80,90
-Traffic in,80,90
-Traffic out,80,90
+cpuusage,80,90
+memorypercent,80,90
+diskusage,80,90
